@@ -1,8 +1,8 @@
 body {
-  margin: 20px;
+  margin: 0;
   width: 100vw;
-  height: 100vw;
-  
+  height: 100vh;
+
   font-family: Helvetica;
 
   display: flex;
@@ -14,4 +14,12 @@ body {
 ul {
   padding: 0;
   list-style: none;
+}
+
+h1 {
+  margin: 0;
+  background-color: turquoise;
+  color: red;
+  padding: 0.25em;
+  border-radius: 0.1em;
 }
