@@ -2,7 +2,13 @@ body {
   margin: 20px;
   width: 100vw;
   height: 100vw;
+  
   font-family: Helvetica;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
 }
 
 ul {
